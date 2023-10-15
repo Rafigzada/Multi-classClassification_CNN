@@ -1,4 +1,5 @@
-# NLP_Project
+# Multi-classClassification_CNN
+
 
 ## Overview
 It is multi-class classification project. I will be using the (https://www.kaggle.com/datamunge/sign-language-mnist) dataset, which contains 28x28 images of hands depicting the 26 letters of the English alphabet.
